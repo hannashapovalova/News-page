@@ -1,3 +1,25 @@
 body {
     position: relative;
 }
+
+@media (max-width: 900px) {
+    
+    h1 {
+        color: red;
+        font-size: 17px;
+    
+    }
+    
+    .article {
+        font-size: 10px;
+    }
+    .text-secondary {
+        font-size: 12px;
+    }
+    .expert-name {
+        font-size: 12px;
+    }
+    .profession {
+        font-size: 12px;
+    }
+}
