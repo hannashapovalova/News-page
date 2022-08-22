@@ -1,5 +1,8 @@
 body {
-    position: relative;
+    /* position: relative; */
+}
+.main-article {
+    margin-top: 80px;
 }
 
 @media (max-width: 900px) {
